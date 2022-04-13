@@ -30,8 +30,8 @@ export default function Posts() {
 
   return (
     <main>
-      <h1>Posts</h1>
-      <ul>
+      <h1 className="text-2xl font-bold">Posts</h1>
+      <ul className="list-disc">
         {posts.map((post) => (
           <li key={post.slug}>
             <Link to={post.slug}>

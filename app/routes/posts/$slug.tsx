@@ -10,7 +10,7 @@ export default function PostSlug() {
 
   return (
     <main>
-      <h1>Some Post</h1>
+      <h1 className="text-2xl font-bold">Some Post</h1>
       <p>{slug}</p>
     </main>
   );
