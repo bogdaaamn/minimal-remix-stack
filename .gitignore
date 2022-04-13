@@ -11,6 +11,7 @@ lerna-debug.log*
 /build
 /public/build
 .env
+/app/tailwind.css
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
