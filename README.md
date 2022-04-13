@@ -1,6 +1,6 @@
 # Minimal House Remix Stack 
 
-The Minimal House Remix Stack to setup Remix with minimal typsescript, tailwind, linting, and formatting. Worry about storage, testing, or deployment later.
+![The Minimal Remix Stack Cover](https://user-images.githubusercontent.com/22895284/163196320-0d5070f8-1a51-4b06-93f4-ef92673784fe.png)
 
 ## Development
 
